@@ -10,6 +10,10 @@ mvn package
 java -jar target/helidon-quickstart-mp.jar
 ```
 
+## Swagger UI
+
+http://localhost:8080/openapi-ui/index.html
+
 ## Exercise the application
 
 ```
